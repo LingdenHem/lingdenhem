@@ -1,7 +1,9 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Hemanta Lingden and I’m a frontend developer passionate about creating and bringing ideas to life through code.
+- 🔭 I’m currently working on OrderFlow,  building modern POS system built with the MERN stack.
+- 🌱 I recently built a Japanese-themed restaurant website  called Harmony using MERN stack called Harmony.
+
+
 <!--
 **LingdenHem/lingdenhem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
