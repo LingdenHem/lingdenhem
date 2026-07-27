@@ -1,7 +1,6 @@
 # 💫 About Me:
 ## Hi there, My name is Hemanta Lingden 👋
 I’m a frontend developer passionate about creating and bringing ideas to life through code.
-- 🔭 I’m currently working on OrderFlow,  building modern POS system with the MERN stack.
 - 🌱 I recently built a Japanese-themed restaurant website  called Harmony using MERN stack called Harmony.
 
 <br>
